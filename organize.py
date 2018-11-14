@@ -24,7 +24,9 @@ DIRECTORIES = {
     "PYTHON": [".py"],
     "XML": [".xml"],
     "EXE": [".exe"],
-    "SHELL": [".sh"]
+    "SHELL": [".sh"],
+    "JAVASCRIPT": [".js"],
+    "ARCHIVE": [".deb"],
 }
 
 FILE_FORMATS = {file_format: directory
